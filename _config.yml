@@ -21,8 +21,8 @@
 title: Residuals Workshop @ ESEC/FSE 2022
 email: sw@stefan-winter.net
 # description: The "Residuals" workshop covers all aspects pertaining to modeling and simulating software defects that escape common quality control (a.k.a. "residual bugs").
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+# baseurl: "" # the subpath of your site, e.g. /blog
+# url: "" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: ""
 # github_username:  ""
 
