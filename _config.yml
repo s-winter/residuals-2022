@@ -33,6 +33,7 @@ github_username:  jekyll
 theme: jekyll-theme-modernist
 plugins:
   - jekyll-feed
+  - jekyll-remote-theme
 
 # Exclude from processing.
 # The following items will not be processed, by default.
@@ -53,3 +54,5 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+remote_theme: pages-themes/modernist@v0.2.0
