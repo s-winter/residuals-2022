@@ -2,6 +2,12 @@
 layout: default
 ---
 
+# <span style="color:red">Important: Workshop Canceled</span>
+
+<span style="color:red">Due to a combination of unforeseen circumstances, the workshop cannot take place as planned. <br/>
+After careful consideration, we have decided to cancel the workshop. <br/>
+We apologize to all registered participants and the FSE organizers for the inconveniences this entails.</span>
+
 # Workshop Scope
 
 This workshop is about studying residual software bugs in critical
